@@ -6,7 +6,7 @@ $slider_folder = drupal_get_path('theme', 'rinda') . '/slider/';
 
 <div class="welcome-box welcome-black">
   <img src="<?php print $slider_folder; ?>logo_black.png" width="400">
-  <a href="<?php print url(); ?>" class="welcome-link">Enter Site</a>
+  <a href="<?php print url("collection"); ?>" class="welcome-link">Enter Site</a>
 </div>
 <script type="text/javascript">
   jQuery(function($){

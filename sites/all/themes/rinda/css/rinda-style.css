@@ -61,7 +61,7 @@ h1.logo, .top-menu	{
 	color:#ffffff;
 	border:2px solid #000000;
 	}	
-.top-menu ul li a:hover, .top-menu ul li a.current	{
+.top-menu ul li a:hover, .top-menu ul li a:active , .top-menu ul li a.current	{
 	color:f5f5f5;
 	border:2px solid #ffffff;
 	}
@@ -205,7 +205,7 @@ h1.logo, .top-menu	{
 	border:2px solid #6e6e6e;
 	font-size:12px;
 	}	
-.mid-rightsec ul li a:hover, .mid-rightsec ul li a.current	{
+.mid-rightsec ul li a:hover, .mid-rightsec ul li a:active, .mid-rightsec ul li a.current	{
 	color:f5f5f5;
 	border:2px solid #ffffff;
 	}
